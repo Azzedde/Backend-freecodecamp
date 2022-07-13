@@ -10,5 +10,9 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"author": {
+		"name": "Aitsaid Azzedine Idir",
+		"email": "ja_aitsaid@esi.dz"
 	}
 }
